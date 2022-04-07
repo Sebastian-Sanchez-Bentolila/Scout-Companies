@@ -1,0 +1,14 @@
+Pasos para la intalaciòn del sofware 'Empresas_Scout':
+
+1. Tener python en la versiòn 3.10.4 o superior, en caso de 
+no contar con este. Descargalo aqui: https://www.python.org/downloads/
+
+2. Intalar 'SETUP.exe'. (Si el antivirus no deja, desactivarlo temporalmente, 
+una vez terminado el proceso activarlo). 
+
+3. Por ùltimo, crear un enlace directo de 'Empresas_Scout.exe' y ya podrà
+usarlo libremente.
+
+Nota: Los informes que usted creè, van a aparecer en el escritorio. 
+
+Sofware exclusivo para window y linux. No compatible con Mac. 

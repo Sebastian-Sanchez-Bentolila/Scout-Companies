@@ -1,0 +1,11 @@
+Tutorial
+
+¿Comò Usarlo?
+
+- Nombre del proyecto / empresa : {nombre} . Ejemplo: 'Empanadas'
+
+- Plata total recaudada : {monto recaudado} . Ejemplo: '5600.08'
+
+- Gastos : {gasto1 gasto2 gasto3 ...}. Ejemplo: '800 756.9 1050 1290 786.956'
+
+- Nombre del grupo scout : {nombre} . Ejemplo: 'San Pedrito'
